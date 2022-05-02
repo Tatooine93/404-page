@@ -1,6 +1,14 @@
 body {
-  background-color: rgb(50, 175, 255);
+  background-color: rgb(50, 81, 255);
 }
+
 p {
-  font-family: 1.3rem Inconsolata, monospace;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: white;
+}
+
+img {
+  display: block;
+  margin: auto;
 }
