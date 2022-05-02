@@ -1,3 +1,6 @@
 body {
   background-color: rgb(50, 175, 255);
 }
+p {
+  font-family: 1.3rem Inconsolata, monospace;
+}
